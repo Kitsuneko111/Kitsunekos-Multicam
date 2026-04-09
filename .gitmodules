@@ -1,0 +1,27 @@
+[submodule "AnimationUtils"]
+	path = AnimationUtils
+	url = https://github.com/NebulaLib/AnimationUtils
+[submodule "EmoteUtils"]
+	path = EmoteUtils
+	url = https://github.com/NebulaLib/EmoteUtils
+[submodule "EventUtils"]
+	path = EventUtils
+	url = https://github.com/NebulaLib/EventUtils
+[submodule "GestureUtils"]
+	path = GestureUtils
+	url = https://github.com/NebulaLib/GestureUtils
+[submodule "GUIUtils"]
+	path = GUIUtils
+	url = https://github.com/NebulaLib/GUIUtils
+[submodule "InputUtils"]
+	path = InputUtils
+	url = https://github.com/NebulaLib/InputUtils
+[submodule "ParticleUtils"]
+	path = ParticleUtils
+	url = https://github.com/NebulaLib/PArticleUtils
+[submodule "PhysicsUtils"]
+	path = PhysicsUtils
+	url = https://github.com/NebulaLib/PhysicsUtils
+[submodule "PlayerUtils"]
+	path = PlayerUtils
+	url = https://github.com/NebulaLib/PlayerUtils
