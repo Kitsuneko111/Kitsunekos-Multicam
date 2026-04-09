@@ -1,0 +1,17 @@
+{
+    "name": "kitsuneko.multicam",
+    "displayName": "Kitsuneko's Multicam",
+    "version": "0.0.1",
+    "description": "A floating camera that can be manually controlled with keyboard and gamepad, in-game, with various settings for following the player.",
+    "main": "main.luau",
+    "keywords": [
+        "freecam",
+        "controller",
+        "keyboard",
+        "in-game",
+        "follow",
+        "selfies",
+        "customisable"
+    ],
+    "author": "Kitsuneko"
+}
